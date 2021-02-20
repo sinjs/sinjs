@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **My Statuspage!**
-- 🌱 I’m currently learning **Vue**
+- 🔭 I’m currently working on **The new Blip Website**
+- 🌱 I’m currently learning **React**
 - 📫 How to reach me: **Discord, Email and Twitter**
 - 😄 Pronouns: **he/him**
 Now, let's get into it!
