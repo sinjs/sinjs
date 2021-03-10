@@ -16,7 +16,6 @@ Now, let's get into it!
 + **Python** ![Python](https://i.ibb.co/GRhwz5D/768px-python-logo-notext-svg.png)
 + **NodeJS** ![NodeJS](https://i.ibb.co/0BtyMGw/Webp-net-resizeimage.png)
 + **C#** ![C#](https://i.ibb.co/y8r3jfc/Webp-net-resizeimage-1.png)
-+ **CSS** ![CSS](https://i.ibb.co/6rTkqSf/css3-logo-and-wordmark-svg.png)
 
 
 ### Social media
