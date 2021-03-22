@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 👋
+
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=sinmineryt&show_icons=true&count_private=true">  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinmineryt&show_icons=true">
+</div>
+
+---
 
 - 🔭 I’m currently working on **The new Blip Website**
 - 🌱 I’m currently learning **React**
@@ -11,12 +18,11 @@ Now, let's get into it!
 **Hey!**
 **I'm Sin, a frontend and backend developer!**
 
-### Programming languages I know
+### Languages I know
                 
 + **Python** ![Python](https://i.ibb.co/GRhwz5D/768px-python-logo-notext-svg.png)
 + **NodeJS** ![NodeJS](https://i.ibb.co/0BtyMGw/Webp-net-resizeimage.png)
 + **C#** ![C#](https://i.ibb.co/y8r3jfc/Webp-net-resizeimage-1.png)
-
 
 ### Social media
 
