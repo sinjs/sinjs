@@ -1,9 +1,8 @@
 ### Hello 👋
 
-<div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=sinmineryt&show_icons=true&count_private=true">  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinmineryt&show_icons=true">
-</div>
+
 
 ---
 
