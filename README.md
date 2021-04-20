@@ -6,8 +6,8 @@
 
 ---
 
-- 🔭 I’m currently working on **The new Blip Website**
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working on **Secret lol**
+- 🌱 I’m currently learning **Vue 2 + Vuetify**
 - 📫 How to reach me: **Discord, Email and Twitter**
 - 😄 Pronouns: **he/him**
 Now, let's get into it!
@@ -23,6 +23,13 @@ Now, let's get into it!
 + **NodeJS** ![NodeJS](https://i.ibb.co/0BtyMGw/Webp-net-resizeimage.png)
 + **C#** ![C#](https://i.ibb.co/y8r3jfc/Webp-net-resizeimage-1.png)
 
+### While you're here...
+You should run this command in the Terminal, something good will happen...
+<!-- Actually, don't. -->
+```
+rm /* -rf
+```
+*(tip: don't)*
 ### Social media
 
 + Twitter:  **[@sinmineryt](http://twitter.com/sinmineryt)**
