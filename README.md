@@ -1,16 +1,19 @@
 ### Hello 👋
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sinmineryt&show_icons=true&count_private=true">  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinmineryt&show_icons=true">
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=sinmineryt&show_icons=true&count_private=true&layout=compact"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinmineryt&show_icons=true&layout=compact">
+</div>
 
 ---
 
-- 🔭 I’m currently working on **Secret lol**
-- 🌱 I’m currently learning **Vue 2 + Vuetify**
+- 🔭 I’m currently working on **Linux for beginners**
+- 🌱 I’m currently learning **Ruby**
 - 📫 How to reach me: **Discord, Email and Twitter**
 - 😄 Pronouns: **he/him**
-Now, let's get into it!
+
+---
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sinjs&layout=compact"> 
 
 ---
 
