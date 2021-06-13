@@ -6,8 +6,8 @@
 
 ---
 
-- 🔭 I’m currently working on **Linux for beginners**
-- 🌱 I’m currently learning **Ruby**
+- 🔭 I’m currently working on **school stuff**
+- 🌱 I’m currently learning **C++**
 - 📫 How to reach me: **Discord, Email and Twitter**
 - 😄 Pronouns: **he/him**
 
@@ -22,9 +22,12 @@
 
 ### Languages I know
                 
-+ **Python** ![Python](https://i.ibb.co/GRhwz5D/768px-python-logo-notext-svg.png)
-+ **NodeJS** ![NodeJS](https://i.ibb.co/0BtyMGw/Webp-net-resizeimage.png)
-+ **C#** ![C#](https://i.ibb.co/y8r3jfc/Webp-net-resizeimage-1.png)
++ **Python** <!-- ![Python](https://i.ibb.co/GRhwz5D/768px-python-logo-notext-svg.png) -->
++ **Typescript/Javascript** <!-- ![NodeJS](https://i.ibb.co/0BtyMGw/Webp-net-resizeimage.png) -->
++ **C#** <!-- ![C#](https://i.ibb.co/y8r3jfc/Webp-net-resizeimage-1.png) -->
++ **C**
++ **C++**
++ **Java**
 
 ### While you're here...
 You should run this command in the Terminal, something good will happen...
@@ -35,9 +38,9 @@ rm /* -rf
 *(tip: don't)*
 ### Social media
 
-+ Twitter:  **[@sinmineryt](http://twitter.com/sinmineryt)**
-+ Discord:  **[sin.exe#6969](https://dsc.bio/sinmineryt)**
-+ Website: **[sinmineryt.ga](https://sinmineryt.ga)**
++ Twitter:  **[@sinjstwt](http://twitter.com/sinjstwt)**
++ Discord:  **[sin#6565](https://dsc.bio/sinmineryt)**
++ Website: **[sinjs.cf](https://sinjs.cf)**
 
 ### My projects
 #### Blip Discord Bot
@@ -61,9 +64,11 @@ So what are you waiting for? Invite Blip now!
 [Click here to invite the bot to your server.](http://invite.blip-bot.cf "Click here to invite the bot to your server.")
 [⭐ Support Blip by voting!](https://top.gg/bot/733241107277938688/vote)
 
+<!--
 #### Statuspage
 My Statuspage, self-made and completly static. Monitoring powered by uptimerobot.
 [status.sinmineryt.ga](https://status.sinmineryt.ga)
+-->
 
 ---
 **Thanks for stopping by!**
