@@ -13,6 +13,8 @@
 
 ---
 
+WakaTime Stats (last 7 days)
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=sinjs&layout=compact"> 
 
 ---
