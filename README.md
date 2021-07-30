@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning **Rust**
 - 📫 How to reach me: **Discord, Email and Twitter**
 - 😄 Pronouns: **he/him**
+- 🐧 I use **arch** btw
 
 ---
 
