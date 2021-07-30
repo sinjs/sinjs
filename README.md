@@ -7,7 +7,7 @@
 ---
 
 - 🔭 I’m currently working on **fixing my sleep schleude (haha jk this is not possible)**
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Rust**
 - 📫 How to reach me: **Discord, Email and Twitter**
 - 😄 Pronouns: **he/him**
 
@@ -27,9 +27,8 @@ WakaTime Stats (last 7 days)
 + **Python** <!-- ![Python](https://i.ibb.co/GRhwz5D/768px-python-logo-notext-svg.png) -->
 + **Typescript/Javascript** <!-- ![NodeJS](https://i.ibb.co/0BtyMGw/Webp-net-resizeimage.png) -->
 + **C#** <!-- ![C#](https://i.ibb.co/y8r3jfc/Webp-net-resizeimage-1.png) -->
-+ **C**
-+ **C++**
-+ **Java**
++ **C / C++**
++ **Rust**
 
 ### While you're here...
 You should run this command in the Terminal, something good will happen...
@@ -65,12 +64,6 @@ So what are you waiting for? Invite Blip now!
 [Click here to join the official server.](https://discord.gg/6BKyaryqAX "Click here to join the official server.") 
 [Click here to invite the bot to your server.](http://invite.blip-bot.cf "Click here to invite the bot to your server.")
 [⭐ Support Blip by voting!](https://top.gg/bot/733241107277938688/vote)
-
-<!--
-#### Statuspage
-My Statuspage, self-made and completly static. Monitoring powered by uptimerobot.
-[status.sinmineryt.ga](https://status.sinmineryt.ga)
--->
 
 ---
 **Thanks for stopping by!**
