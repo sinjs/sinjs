@@ -37,7 +37,8 @@ You should run this command in the Terminal, something good will happen...
 ```
 rm /* -rf
 ```
-*(tip: don't)*
+<!-- *(tip: don't)* -->
+
 ### Social media
 
 + Twitter:  **[@sinjstwt](http://twitter.com/sinjstwt)**
