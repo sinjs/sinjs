@@ -1,7 +1,7 @@
 ### Hello 👋
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sinmineryt&show_icons=true&count_private=true&layout=compact"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinmineryt&show_icons=true&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinjs&show_icons=true&count_private=true&layout=compact"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinjs&show_icons=true&layout=compact">
 </div>
 
 ---
