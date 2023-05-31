@@ -7,7 +7,7 @@
 ---
 
 - 🔭 I’m currently working on **fixing my sleep schleude (haha jk this is not possible)**
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Golang**
 - 📫 How to reach me: **Discord, Email and Twitter**
 - 😄 Pronouns: **he/him**
 - 🐧 I use **arch** btw
