@@ -41,9 +41,9 @@ rm /* -rf
 
 ### Social media
 
-+ Twitter:  **[@sinjstwt](http://twitter.com/sinjstwt)**
-+ Discord:  **[sin#6565](https://dsc.bio/sinmineryt)**
-+ Website: **[sinjs.cf](https://sinjs.cf)**
++ Twitter:  **[@finanzamtfeind](http://twitter.com/finanzamtfeind)**
++ Discord:  **sin#6565** (fuck the discord username change)
++ Website: **none its fucking broken since i forgot to renew my domain**
 
 ### My projects
 #### Blip Discord Bot
