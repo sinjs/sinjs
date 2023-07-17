@@ -14,5 +14,5 @@ rm /* -rf
 ### Contact me
 
 + Twitter:  **[@finanzamtfeind](http://twitter.com/finanzamtfeind)**
-+ Discord:  ~~**sin#6565**~~ account suspended for no reason (thanks discord)
++ Discord: @lyeg / sin#6565
 + Website: **none its fucking broken since i forgot to renew my domain**
