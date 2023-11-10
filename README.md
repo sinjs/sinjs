@@ -14,5 +14,5 @@ rm /* -rf
 ### Contact me
 
 + Twitter:  **[@finanzamtfeind](http://twitter.com/finanzamtfeind)**
-+ Discord: @lyeg / sin#6565
-+ Website: **none its fucking broken since i forgot to renew my domain**
++ Discord: @sinsose
++ Website: **[cedricis.gay](https://cedricis.gay)**
