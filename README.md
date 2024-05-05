@@ -3,6 +3,9 @@
 
 **Languages I use:** TypeScript, C, C++ and Rust
 
+---
+# 📊 Monthly development breakdown
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -14,3 +17,5 @@ Prisma       0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+---
