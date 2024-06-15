@@ -4,7 +4,7 @@
 **Languages I use:** TypeScript, C, C++ and Rust
 
 ---
-📊 **Monthly development breakdown**
+📊 **Weekly development breakdown**
 
 <!--START_SECTION:waka-->
 
