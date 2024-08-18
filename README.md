@@ -9,7 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust         2 hrs 42 mins   █████████████████████░░░░   84.06 %
+SQL          20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+TOML         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
