@@ -1,7 +1,7 @@
 ### Hello 👋
 #### I'm sin, software engineer and developer!
 
-**Languages I use:** TypeScript, C, C++ and Rust
+**Languages I use:** Rust, C, C++, TypeScript
 
 ---
 📊 **Weekly development breakdown**
